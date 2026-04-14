@@ -8,6 +8,7 @@ const timelineData = [
     title: "Первый токарный станок",
     emoji: "🏺",
     color: "#C8832A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/895a90d1-21f6-45ad-bb95-ec59edb223e3.jpg",
     description:
       "Египтяне изобрели примитивный токарный станок: один человек держал режущий инструмент, второй вращал заготовку верёвочной петлёй. Первые изделия — деревянные ножки мебели и ритуальные сосуды.",
     fact: "Найденные фрески показывают двух мастеров за работой",
@@ -20,6 +21,7 @@ const timelineData = [
     title: "Ножной привод",
     emoji: "🏛️",
     color: "#B07020",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/23a58ae1-06bc-42f1-b667-617efdc72354.jpg",
     description:
       "Греки и римляне усовершенствовали станок, добавив ножную педаль с гибкой жердью — «пружинный токарный станок». Мастер мог работать обеими руками, удерживая резец точно.",
     fact: "Такие станки использовались для изготовления колонн и мраморных деталей",
@@ -32,6 +34,7 @@ const timelineData = [
     title: "Токарный станок с коромыслом",
     emoji: "⚔️",
     color: "#9A6010",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/a155e526-5457-4b5e-bc74-f4fe1449f7a0.jpg",
     description:
       "В средневековой Европе появился станок с коромыслом и маховиком. Цеховые мастера-токари получили статус привилегированных ремесленников. Изготовление оружейных рукоятей, деталей доспехов.",
     fact: "В 1376 г. в Париже основана гильдия токарей",
@@ -44,6 +47,7 @@ const timelineData = [
     title: "Непрерывное вращение",
     emoji: "🎨",
     color: "#8B3A1A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/4a920b41-cd22-4b05-8302-c780cb3ab4ac.jpg",
     description:
       "Леонардо да Винчи создал эскизы станка с кривошипно-шатунным механизмом — первый проект непрерывного вращения без обратного хода. Революция в принципе работы.",
     fact: "Эскизы хранятся в Codex Atlanticus в Милане",
@@ -56,6 +60,7 @@ const timelineData = [
     title: "Токарное искусство при дворах",
     emoji: "👑",
     color: "#C8832A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/b0c3092e-032a-429c-b171-c4d167c62479.jpg",
     description:
       "Токарное дело стало придворным искусством. Король Франции Генрих II, германские императоры лично работали на токарных станках. Появился термин «токарное искусство» — art de tourner.",
     fact: "Пётр I изучил токарное дело в Голландии и имел личный станок",
@@ -68,6 +73,7 @@ const timelineData = [
     title: "Металлический суппорт",
     emoji: "⚙️",
     color: "#6A7A8A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/03fcf24b-d88e-4aa1-a6f1-1010c1601e08.jpg",
     description:
       "Французский изобретатель Жак де Вокансон создал токарный станок с металлическим суппортом для фиксации резца. Первый шаг к точному машиностроению — резец больше не держат руками.",
     fact: "Точность обработки выросла в десятки раз",
@@ -80,6 +86,7 @@ const timelineData = [
     title: "Станок Генри Модсли",
     emoji: "🔧",
     color: "#5A6A7A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/1d745ed6-3a04-4693-8bff-42410f04da6d.jpg",
     description:
       "Британец Генри Модсли создал токарно-винторезный станок с ходовым винтом и сменными шестернями — прародитель всех современных токарных станков. Стало возможным нарезать резьбу любого шага.",
     fact: "Точность достигала 0.001 дюйма — невероятно для того времени",
@@ -92,6 +99,7 @@ const timelineData = [
     title: "Паровой и приводной токарный станок",
     emoji: "🚂",
     color: "#4A5A6A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/888b3c68-2213-4069-b118-50c7a24401e9.jpg",
     description:
       "Промышленная революция принесла паровой привод в токарные цеха. Появились трансмиссионные системы с ременными передачами от парового двигателя. Серийное производство деталей машин.",
     fact: "К 1890-м в США работало более 50 000 токарных станков",
@@ -104,6 +112,7 @@ const timelineData = [
     title: "Электрический привод",
     emoji: "⚡",
     color: "#3A8A9A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/cb29dc74-c4a7-43c3-b29c-881873e94bd0.jpg",
     description:
       "Электродвигатель заменил пар и ремни. Каждый станок получил собственный привод, скорость стала плавно регулироваться. Появились универсальные токарные станки для массового машиностроения.",
     fact: "СССР запустил производство токарных станков ДИП-200 в 1932 году",
@@ -116,6 +125,7 @@ const timelineData = [
     title: "Первый станок с ЧПУ",
     emoji: "🖥️",
     color: "#2A7A8A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/35475f16-75f5-4cc9-9561-eb4b2b56c930.jpg",
     description:
       "MIT разработал первый станок с числовым программным управлением (ЧПУ). Программа на перфоленте управляла движением инструмента. Точность и воспроизводимость стали абсолютными.",
     fact: "Проект финансировало ВВС США для производства авиадеталей",
@@ -128,6 +138,7 @@ const timelineData = [
     title: "CAD/CAM и токарные центры",
     emoji: "💻",
     color: "#1A6A7A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/7c511aec-4f25-43fc-9d84-b96722c999f8.jpg",
     description:
       "Компьютерное проектирование (CAD) и управление производством (CAM) слились с токарными станками. Появились многоосевые токарные центры, способные обрабатывать детали за один установ.",
     fact: "Точность современных ЧПУ-станков — до 1 микрона (0.001 мм)",
@@ -140,6 +151,7 @@ const timelineData = [
     title: "Лазер, робот и Smart Factory",
     emoji: "🤖",
     color: "#C8832A",
+    image: "https://cdn.poehali.dev/projects/de837130-753d-4148-8c0e-d127b8043ea4/files/330c1144-1062-471e-9bc9-cfbc42d525e9.jpg",
     description:
       "Токарные станки интегрируются с роботами-манипуляторами, системами машинного зрения и IoT-сенсорами. Концепция «умного завода» — полностью автономное производство без участия человека.",
     fact: "Некоторые заводы Toyota работают 24/7 без операторов у станков",
@@ -510,6 +522,39 @@ export default function Index() {
 function TimelineCard({ item }: { item: (typeof timelineData)[0] }) {
   return (
     <>
+      {/* Image */}
+      {item.image && (
+        <div
+          className="relative overflow-hidden rounded-md mb-4"
+          style={{ aspectRatio: "16/9" }}
+        >
+          <img
+            src={item.image}
+            alt={item.title}
+            className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
+          />
+          <div
+            className="absolute inset-0"
+            style={{
+              background: `linear-gradient(to top, ${item.color}55 0%, transparent 50%)`,
+            }}
+          />
+          <span
+            className="absolute bottom-2 right-2 text-xs px-2 py-0.5 rounded font-semibold"
+            style={{
+              background: "rgba(8,5,2,0.75)",
+              color: item.color,
+              border: `1px solid ${item.color}50`,
+              fontFamily: "Oswald",
+              letterSpacing: "0.05em",
+              backdropFilter: "blur(4px)",
+            }}
+          >
+            {item.year}
+          </span>
+        </div>
+      )}
+
       <div className="flex items-start justify-between gap-3 mb-2">
         <div>
           <div className="text-xs uppercase tracking-widest font-medium mb-0.5" style={{ color: item.color }}>
@@ -519,21 +564,7 @@ function TimelineCard({ item }: { item: (typeof timelineData)[0] }) {
             {item.title}
           </h3>
         </div>
-        <span className="text-3xl flex-shrink-0">{item.emoji}</span>
-      </div>
-
-      <div
-        className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-xs font-medium mb-3"
-        style={{
-          background: `${item.color}15`,
-          color: item.color,
-          border: `1px solid ${item.color}28`,
-          fontFamily: "Oswald",
-          letterSpacing: "0.04em",
-        }}
-      >
-        <Icon name="Calendar" size={10} />
-        {item.year}
+        <span className="text-2xl flex-shrink-0">{item.emoji}</span>
       </div>
 
       <p className="text-sm leading-relaxed mb-3" style={{ color: "#8A9BA8", fontWeight: 300 }}>
